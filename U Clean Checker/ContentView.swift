@@ -243,7 +243,7 @@ struct ContentView: View {
                     //关于作者代码
                     var tempResult = ""
                     tempResult += "项目GitHub地址： \n"
-                    tempResult += "https://github.com/lriley26/U-Clean-Status-Checker-iOS \n\n"
+                    tempResult += "https://github.com/CarlWkr/U-Clean-Status-Checker-iOS \n\n"
                     tempResult += "当程序提示令牌失效时，请点击左侧按钮重新配置令牌。 \n\n"
                     tempResult += "请通过抓包软件截取并分析Bearer令牌，然后填入程序并保存。 \n\n"
                     tempResult += "如果不会抓包分析，当令牌失效时，作者会在GitHub更新Bearer,请多加留意 \n\n"
