@@ -54,7 +54,6 @@ struct ContentView: View {
                 .font(.title)
                 .foregroundColor(.purple)
                 .padding()
-                .bold()
                 .multilineTextAlignment(.center)
             
             HStack{
@@ -258,7 +257,6 @@ struct ContentView: View {
             
             }
             Text("查询结果").font(.title).padding().foregroundColor(.purple)
-                .bold()
             //显示查询结果
             HStack{
                 ScrollView {
