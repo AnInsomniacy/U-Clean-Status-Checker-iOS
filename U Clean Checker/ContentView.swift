@@ -28,7 +28,7 @@ struct ContentView: View {
     @State private var isBearerPresented = false // 用于控制Bearer输入框的显示
     
     
-    @State var GlobalBearer = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBVc2VySWQiOiJvZ3lSVDF1M0dlZU9OV2N5SGdHekZYM3RoLVVNIiwiZXhwIjoxNzAyMjgzNTg4LCJpYXQiOjE2OTQyNDgzODgsImlkIjozMDE5NDgzMiwibmFtZSI6IjE5ODc2NTc2NzY4In0.N83KdLj5-3DuyaY4-n9lsocUpq71QwnCvB4Ox7FL1D0"
+    @State var GlobalBearer = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBVc2VySWQiOjExMzI4ODM3LCJleHAiOjE3MTAzNDE3NTAsImlhdCI6MTcwMjMwNjU1MCwiaWQiOjE2MTc0OTk3LCJuYW1lIjoiMTc2ODgwODE4MzQifQ.MI9tZUn6ki8EfiZHgUXCE7VYe6JN6UJLcPz6YgbtaYA"
     
     //查询结果
     @State private var GlobalResult = "等待查询指令..."
