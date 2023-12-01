@@ -7,6 +7,8 @@
 
 import Foundation
 
+var DefaultBearer = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBVc2VySWQiOjExMzI4ODM3LCJleHAiOjE3MTAzNDE3NTAsImlhdCI6MTcwMjMwNjU1MCwiaWQiOjE2MTc0OTk3LCJuYW1lIjoiMTc2ODgwODE4MzQifQ.MI9tZUn6ki8EfiZHgUXCE7VYe6JN6UJLcPz6YgbtaYA"
+
 var D19_ZhaoJi_Floor_1 = "http://app.littleswan.com/u_download.html?type=Ujing& uuid=0000000000000A0007555201809040059169"
 var D19_ZhaoJi_Floor_2 = "http://weixin.qq.com/r/Ej8rM5LE1M-rrdZQ92oAl?uuid=0000000000000A0007555201906010104247"
 var D19_ZhaoJi_Floor_3 = "https://q.ujing.com.cn/ucqrc/index.html?cd=0000000000000A0007555202104170176727"
