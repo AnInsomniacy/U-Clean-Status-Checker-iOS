@@ -7,7 +7,7 @@
 
 import Foundation
 
-var DefaultBearer = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBVc2VySWQiOjExMzI4ODM3LCJleHAiOjE3MTAzNDE3NTAsImlhdCI6MTcwMjMwNjU1MCwiaWQiOjE2MTc0OTk3LCJuYW1lIjoiMTc2ODgwODE4MzQifQ.MI9tZUn6ki8EfiZHgUXCE7VYe6JN6UJLcPz6YgbtaYA"
+var DefaultBearer = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBVc2VySWQiOiJvck94VzRfZU85TlVVVnlVbWg2eXVGNXlZbGdvIiwiZXhwIjoxNzIzODIzMDUyLCJpYXQiOjE3MTU3ODc4NTIsImlkIjoxNjE3NDk5NywibmFtZSI6IjE3Njg4MDgxODM0In0.D3ztT_tYc-TYFzNMoCM_Ii3vYJ1qLsfryRGgwg34QiY"
 
 var D19_ZhaoJi_Floor_1 = "http://app.littleswan.com/u_download.html?type=Ujing& uuid=0000000000000A0007555201809040059169"
 var D19_ZhaoJi_Floor_2 = "http://weixin.qq.com/r/Ej8rM5LE1M-rrdZQ92oAl?uuid=0000000000000A0007555201906010104247"
